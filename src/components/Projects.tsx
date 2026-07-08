@@ -46,7 +46,7 @@ export default function Projects() {
             Projects
           </div>
           <h2 className="mt-5 max-w-3xl text-4xl font-black tracking-[-0.04em] text-white sm:text-6xl">
-            SaaS projects built from idea to cloud.
+            SaaS projects built from idea to cloud
           </h2>
         </div>
         <p className="max-w-xl text-sm leading-7 text-slate-400 sm:text-base">

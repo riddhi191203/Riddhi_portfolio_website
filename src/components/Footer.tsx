@@ -34,7 +34,7 @@ export default function Footer({ isDark, showScrollTop }: FooterProps) {
                   Let us build
                 </div>
                 <h2 className="mt-5 max-w-3xl text-3xl font-black tracking-[-0.04em] text-white sm:text-5xl">
-                  Available for freelance projects, full-time roles, and software development work.
+                  Available for freelance projects and software development work
                 </h2>
               </div>
               <a

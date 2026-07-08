@@ -71,7 +71,7 @@ export default function Achievements() {
           </span>
         </div>
         <h2 className="mt-5 text-4xl font-black tracking-[-0.04em] text-white sm:text-6xl">
-          Impact in numbers.
+          Impact in numbers
         </h2>
         <p className="mt-4 max-w-xl text-sm font-light leading-7 text-slate-400">
           Quantifiable milestones extracted verbatim from Riddhi's profile, highlighting specialized training, elite academic stance, and core software production capacities.

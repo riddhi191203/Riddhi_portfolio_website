@@ -45,7 +45,7 @@ export default function Skills() {
             </span>
           </div>
           <h2 className="text-4xl font-black tracking-[-0.04em] text-white sm:text-6xl">
-            Skills that ship products.
+            Skills that ship products
           </h2>
           <p className="max-w-2xl text-sm leading-7 text-slate-400">
             Search the stack or scan by category. Every item supports the live AI products in this portfolio.
